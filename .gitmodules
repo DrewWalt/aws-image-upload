@@ -1,0 +1,6 @@
+[submodule "aws-image-upload-backend"]
+	path = aws-image-upload-backend
+	url = https://github.com/DrewWalt/aws-image-upload-backend.git
+[submodule "aws-image-upload-frontend"]
+	path = aws-image-upload-frontend
+	url = https://github.com/DrewWalt/aws-image-upload-frontend.git
